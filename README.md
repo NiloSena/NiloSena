@@ -4,7 +4,7 @@
 - 🎓 Formado em Técnico em Desenvolvimento de Sistemas pela Etec Dra. Ruth Cardoso
 - 🌱 Estudando para me tornar Full-Stack: HTML, CSS, Javascript, PHP, SQL e C#
 - 📫 Contate-me no email: danilo.sena005@gmail.com
-- 💻 Visite o meu Portfólio: https://senanilo.github.io/MeuPortfolio/
+- 💻 Visite o meu Portfólio: https://nilosena.github.io/MeuPortfolio/
  
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
